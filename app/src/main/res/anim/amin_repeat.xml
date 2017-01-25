@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <alpha
+        android:duration="5000"
+        android:fromAlpha="0"
+        android:toAlpha="1"
+        android:repeatCount="infinite"
+        android:repeatMode="reverse"
+        />
+    <!--- repeatCount: Số lần lặp lại
+          repeatMode: Phương thức lặp
+          2 set trên đặt không nhất thiêt phải đặt trong , không có repeatCount thì repeatMode sẽ không có hiệu lực -->
+</set>
